@@ -1,1 +1,18 @@
-https://asana-user-private-us-east-1.s3.amazonaws.com/assets/656176460444/1208545336158369/517455e40d34d8852a642c288b1a4e17?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGkaCXVzLWVhc3QtMSJIMEYCIQDYAPFNUZ3h3yH%2BTxS1MqXMMB2Lmbw8D6tSCJlqQH3kRwIhANmzJbcP70%2FkaKFr%2B0Dz1JYpMrK%2Fy2MKRpmGYNUbhOC0KrEFCEIQABoMNDAzNDgzNDQ2ODQwIgzE9MBSWB2QshHv0wMqjgXuwc0PexjmAn8o4P8oZbKAvD55Tdt7qMhSqjtIlcyOM6NW5L8LLZK%2FM5UlEMzoRrxaagJdt%2BzFZtcmwBtLaCWQxuyjR6LOkrDbqF91ectSqcHp4QAt4JNiT7nSI6A6hZN1h%2FgaKdMQti4GEXVwUIq8XQ8dtkTZjho4%2F0oT8AMhySUAtS1E%2BrXCgfTscTsJDBaE1NK7jdVY5RNwMmDoVHWGlLHhT2UBpgCbdmFGfHjWzmxjyGoigkyehVWhAbZHhLd54wR0v%2BjzudJ9P1aRaMPp%2FfxyZNmOktrG27xamDVpV9qDVlQM8StzFzzhCHcweFudY1gi5JqSfI8RrNjRkellQBCm2IFScVCVphniONio4nggQoXuKTqWf64PAZIO%2Fc%2FZ5IFDn6LIxDUJpxTqrVS0K9Omd2UpP6HQTBK6XcEQGPBycyzemO4yIiMXcHc%2BPsoLqSBWP334aCi8X2vp3O7Ek3MisRCEkcIR1P1akmyJiIHdbp3OkR6bEkuyyW%2FzqfLZvsgJH3pTr6nDhB8qu03Ivn5Rsq5OZaBJzfFno4yIKmRDjm6%2BR%2Fbw%2Bd1Nn8%2BJVwwFnl2WHI2E8uSc6TywWenuej2q5lOnTT1K9ps851nkEyKZGzfxtFZ2wWjvFP8TZFghJp%2FidwqxEZ5aklvB%2BQuemu8nO8bdFYD6Ux%2B96gJwAuLahVbtkucK7P7pizRTw0skh7%2FFVgchpMezkony0sW9gGzG2hBoX2VAHGd1uxtYRFe7IHDrPjz%2B3BgHmA8LDXXdai9oeG3%2BW2%2BPBW0bvaLwGu5UuSamp%2BINY8AiRok%2BUX6GoHqroPH%2FdQkfJxWH%2FymFf4ec3nWb62tyC6uP7jksxrxZ1gBTEkL4R7ME7%2BEwtsu5uwY6sAEC%2FvNdHeUJk%2BFLCemBv7hinmds2wio1CjEvYUU0pCR%2BBxs329RcMWrVM6%2FeoeirzwabQOU4bUEuXUBSeTWULK9%2Fd6FZBUdBghK%2FDSAYSH9Iul8wuzoOLQAcVOd%2F%2FyFtXMZ3y4MM4s%2Fz2gMIiHuFKKz%2BP%2B9Zeoet4z3%2BIsp2pTOnECYf9nA%2FWuE5sqo0P6C9CVS2VZNflAQ%2Fji9iikZtYZ7YZ%2FVa1%2FnJDKOOc4ApnyJDA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241227T100339Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Credential=ASIAV34L4ZY4DUT7S6WY%2F20241227%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=eb785913f9cf09ddf1a85da4d022f36ac0d18b435b19530e0bf101d01e0aaa1c#_=_
+<?xml version="1.0" encoding="UTF-8"?>
+<Tests>
+	<test1>
+		<name>verify_log</name>
+		<description>Проверка лог файла.</description>
+		<setting>warnings</setting>
+	</test1>
+	<test2>
+		<name>verify_xml</name>
+		<description>Проверка xml файлов.</description>
+		<setting>low</setting>
+	</test2>
+	<test3>
+		<name>verify_url</name>
+		<description>Проверка url-ссылки.</description>
+		<setting>https://github.com/</setting>
+	</test3>
+</Tests>
